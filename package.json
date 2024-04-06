@@ -1,0 +1,23 @@
+{
+  "name": "proj09_countdown_timer-faizan",
+  "version": "1.0.1",
+  "main": "index.js",
+  "bin":"index.js",
+  
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.10.6",
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.12"
+  },
+  "description": ""
+}
